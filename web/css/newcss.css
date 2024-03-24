@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 12, 2024, 11:55:27 PM
+    Author     : AD
+*/
+.forgot{
+    color: red;
+    display: inline-block;
+}
+
+.forgot:hover{
+    color: red;
+}
+

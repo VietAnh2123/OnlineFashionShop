@@ -1,0 +1,19 @@
+Category	Size			Description
+
+Polo:id=0	S M L XL XXL		Chất liệu cotton thoáng mát kết hợp cùng thành phần poly giúp hạn chế 						bai xù, nhăn nhàu. Độ co giãn vải vừa phải giúp thoải mái khi mặc. Bề 						mặt vải pique thời trang. Polo can phối màu mảng to tạo nét khỏe khoắn
+
+Ao Phong:id=1 	S M L XL XXL		Form regular vừa vặn với cơ thể, Chất liệu mềm mịn thoáng mát 100% 						cottonthoair mái trong khi hoạt động. Công nghệ in phồng cao cấp, sắc nét
+
+So Mi:id=2	S M L XL XXL		Sự Lôi Cuốn của Áo Sơ Mi Dài Tay với Chi Tiết Túi Tinh Tế
+					Thiết kế form regular tạo sự thoải mái và phong cách cho người mặc, đồng thời 					giữ cho áo sơ mi vừa vặn và không quá ôm sát, tạo cảm giác tự tin và thoải 					mái.
+
+Blazer:id=3 	S M L XL XXL		 Blazer lót lửng giúp cho sản phẩm thoải mái khi mặc, phù hợp với nhiều tình 					huống sinh hoạt. Các đường may được bọc viền kín nên vẫn giữ được tính cao cấp 					cho sản phẩm. Bề mặt vải texture lạ mắt , các hạt nhỏ tạo cho bề mặt có vân 					chấm trông sản phẩm thời trang hơn. Nguyên phụ liệu đồng màu vải chính
+
+Jogger:id=4 	M L XL XXL		Quần jogger khaki hai túi có nắp ốp hai hai bên đướng sườn quần, các đường can 					giặt nổi gân khỏe khoắn.
+
+Jeans:id=6	30 32 34 36		Vải denim đứng form, độ dày vừa đủ. Thành phần vải cotton và spandex có độ co 					dãn nhẹ giúp người mặc dễ dàng vận động. Cạp quần có đỉa cho trường hợp muốn 					sử dụng thắt lưng.
+
+Kaki:id=5	30 32 34 36		Quần kaki slim có miệng túi chéo diễu 3 đường gân chỉ nổi.
+					Khaki mặt mịn basic dễ phối đồ. Kaki chinos
+
+Au:id=7		30 32 34 36		Quần Âu Trượt Cạp form Tapered trẻ trung, lịch sự. Thiết kế trượt phù hợp với 					nhiều dáng cơ thể, bao gồm bụng nhỏ, bụng vừa, và bụng to. Các đường may tinh 					tế tạo nên một sản phẩm quần âu quốc dân
